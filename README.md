@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-    <img width="18%" margin="0" padding="0" src="https://giphy.com/gifs/funimation-jump-luffy-SJXzadwbexJEAZ9S1B"/>
+    <iframe src="https://giphy.com/embed/SJXzadwbexJEAZ9S1B" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-jump-luffy-SJXzadwbexJEAZ9S1B">via GIPHY</a></p>"/>
 </p>
 <h3 align="center">
     Hi, I'm David
