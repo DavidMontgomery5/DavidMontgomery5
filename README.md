@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-    <img width="18%" margin="0" padding="0" src="https://tenor.com/view/one-piece-pixel-pixel-art-fanart-fanmade-gif-11741274964386933829"/>
+    <img width="18%" margin="0" padding="0" src="one-piece-pixel.gif"/>
 </p>
 <!-- One Piece
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/SJXzadwbexJEAZ9S1B" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-jump-luffy-SJXzadwbexJEAZ9S1B">via GIPHY</a></p> -->
