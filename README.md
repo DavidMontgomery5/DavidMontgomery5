@@ -30,7 +30,9 @@ With a background in both technical education and hands-on development, I bring 
 
 ## <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f680.gif" width="25" height="25"/> Professional Goals
 
-- **Career Development:** Focused on advancing my career in software engineering, particularly in roles that allow me to integrate machine learning with full-stack development to build impactful products
+- **Education Goals:** Gain my Masters in Machine Learning and Artificial intelligence sometime in the near future.
+
+- **Career Development:** Focused on advancing my career in software engineering, particularly in roles that aim to integrate Artificial Inteligence with full-stack development to build impactful products
 - **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills
 
 
