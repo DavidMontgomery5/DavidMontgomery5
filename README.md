@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-    <iframe src="https://giphy.com/embed/SJXzadwbexJEAZ9S1B" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-jump-luffy-SJXzadwbexJEAZ9S1B">via GIPHY</a></p>"/>
+    <img width="18%" margin="0" padding="0" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
 </p>
 <h3 align="center">
     Hi, I'm David
@@ -37,5 +37,6 @@ With a background in both technical education and hands-on development, I bring 
 
 - **Career Development:** Focused on advancing my career in software engineering, particularly in roles that allow me to integrate machine learning with full-stack development to build impactful products
 - **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills
+
 
 
