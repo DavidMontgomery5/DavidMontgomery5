@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <p align="center">
-    <img width="18%" margin="0" padding="0" src="https://cdn.pixabay.com/animation/2022/12/05/15/23/15-23-06-837_512.gif"/>
+    <img width="18%" margin="0" padding="0" src="https://giphy.com/gifs/one-piece-op-luffy-LvtxIRg1Ly96E"/>
 </p>
-<iframe src="https://giphy.com/embed/LvtxIRg1Ly96E" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/one-piece-op-luffy-LvtxIRg1Ly96E">via GIPHY</a></p>
+
 <h3 align="center">
     Hi, I'm David
     </br> 
