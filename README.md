@@ -21,15 +21,6 @@ With a background in both technical education and hands-on development, I bring 
 - **Languages:** JavaScript, Python, SQL, C/C++, .NET, Java, C#
 - **Frameworks & Libraries:** React.js, Next.js, TypeScript, Flask, Tailwind CSS, React Native
 - **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, Docker, Postman, Terraform, MongoDB, Jira, MySQL, Figma
-- **Learning:** Data Science and Machine Learning
-
-<!-- LEADERSHIP -->
-
-## <img src="https://media3.giphy.com/media/KEH88lBIcTeIH62Mhx/giphy.gif?cid=6c09b952dtpdgpdbimkizhohtrsibf72qq0fbdwqqsws1m81&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="25" height="25"/> Leadership & Advocacy
-
-- **CodePath Mentorship:** Mentoring under-represented students on Technical Interview Preparation for software engineering careers
-- **Building Online Communities:** Helping students by building the largest CS community at CCNY. Actively involved in tech communities, facilitating mentorship, networking, and career development opportunities
-- **Public Speaking:** Organized speaking events for students to understand and get more involved in tech, fostering a deeper engagement with the field
 
 <!-- PROFESSIONAL GOALS -->
 
