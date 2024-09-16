@@ -33,7 +33,9 @@ With a background in both technical education and hands-on development, I bring 
 - **Education Goals:** Gain my Masters in Machine Learning and Artificial intelligence sometime in the near future.
 
 - **Career Development:** Focused on advancing my career in software engineering, particularly in roles that aim to integrate Artificial Inteligence with full-stack development to build impactful products.
-- **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills.
+- **Continuous Learning:** Dedicated to ongoing professional growth by keeping up with the latest tech trends and enhancing my coding skills
+
+- **Hobbies:**
 
 
 
