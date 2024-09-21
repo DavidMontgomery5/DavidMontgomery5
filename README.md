@@ -23,7 +23,7 @@ With a background in both technical education and hands-on development, I bring 
 ## <img src="https://cdn3.emoji.gg/emojis/3863_gearz.gif" width="25" height="25"/> Technical Skills
 
 - **Languages:** JavaScript, Python, SQL, C/C++, .NET, Java, C#
-- **Frameworks & Libraries:** React.js, Next.js, TypeScript, Flask, Tailwind CSS, React Native
+- **Frameworks & Libraries:** React.js, Next.js, TypeScript, Flask, Tailwind CSS, React Native, Vite
 - **Skills & Technologies:** Unix/Linux, HTML/CSS, Git, GitHub Actions, Docker, Postman, Terraform, MongoDB, Jira, MySQL, Figma
 
 <!-- PROFESSIONAL GOALS -->
